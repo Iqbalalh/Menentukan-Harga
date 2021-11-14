@@ -26,7 +26,7 @@ int main(){
 		cout << "B" << endl;
 	}else if (Nilai <= 76) {
 		cout << "B+" << endl;
-	}else if (Nilai >= 76) {
+	}else  {
 		cout << "A" << endl;
 	}
 	
